@@ -19,12 +19,12 @@ body{
 }
 .banner-heading h1{
     font-size: 60px;
-    color: rgb(74, 179, 79);
+    color: rgb(197, 214, 42);
 }
 
 .banner-heading p {
     font-size: 30px;
-    color: rgb(206, 112, 25);
+    color: aliceblue;
     font-weight: 700;
     margin-bottom: 50px;
 }
@@ -170,7 +170,8 @@ body{
 #btn{
     width:200px;
     height: 40px;
-    color: rgb(183, 187, 176);
+    font-weight: 700;
+    color: rgb(196, 197, 193);
     background-image: linear-gradient(to top, red, rgb(202, 157, 157));
     border: none;
     cursor: pointer;
