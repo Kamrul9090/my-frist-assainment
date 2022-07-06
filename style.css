@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-banner{
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    padding-left: 100px;
+    margin-top: -20px;
+    margin-bottom: 200px;
+}
+.banner-heading {
+    text-align: center;
+    padding: 150px;
+}
+.banner-heading h1{
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.banner-heading p {
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.banner-heading a {
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(124, 177, 39);
+    color: white;
+    padding: 20px 30px;
+    font-weight: 800;
+    border-radius: 5px;
+
+}
