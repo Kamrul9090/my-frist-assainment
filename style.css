@@ -82,3 +82,36 @@ body{
     width: 700px;
     margin-bottom: 50px;
 }
+.donate-plan {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.our-plan{
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+.our-plan h1{
+    font-size: 50px;
+}
+.our-plan p {
+    font-size: 20px;
+}
+.family-plan{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.family-plan .card {
+    background-color: rgb(226, 176, 111);
+    padding: 50px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-right: 20px;
+}
+#para {
+    margin-left: 20px;
+}
+.card h2 {
+    font-size: 30px;
+}
