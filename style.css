@@ -76,6 +76,7 @@ body{
 }
 #spacial-h2 {
     background-color: rgb(168, 121, 121);
+    background-image: linear-gradient(to top, red, green);
     border: 2px solid yellow;
 }
 
