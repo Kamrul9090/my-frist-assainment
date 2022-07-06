@@ -19,12 +19,12 @@ body{
 }
 .banner-heading h1{
     font-size: 60px;
-    color: aliceblue;
+    color: rgb(74, 179, 79);
 }
 
 .banner-heading p {
     font-size: 30px;
-    color: aliceblue;
+    color: rgb(206, 112, 25);
     font-weight: 700;
     margin-bottom: 50px;
 }
