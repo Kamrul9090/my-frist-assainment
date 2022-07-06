@@ -115,3 +115,25 @@ body{
 .card h2 {
     font-size: 30px;
 }
+
+.contribute-donate{
+    display: flex;
+    width: 100%;
+    margin-bottom: 150px;
+    justify-content: center;
+}
+.half-width {
+    width:45%;
+    margin: auto;
+}
+.half-width h1 {
+    font-size: 40px;
+}
+.half-width p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.half-width img{
+    width: 90%;
+    height: 450px;
+}
